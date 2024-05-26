@@ -1,2 +1,2 @@
 # Do-you-mind-
-Do you mind is a flawed phrase
+"Do you mind?" is a flawed phrase
